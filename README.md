@@ -6,9 +6,8 @@ My first n8n project. Built in a couple of evenings, running every morning since
 
 🎬 [Demo](https://www.youtube.com/watch?v=ZIpYAGTFZqM) · [Full execution run](https://youtu.be/TxRlTwfj3TM)
 
-<!-- Screenshot: n8n workflow canvas -->
-<!-- Screenshot: Telegram conversation with the morning check-in -->
-<!-- Screenshot: Notion journal database -->
+<img width="3357" height="1439" alt="Daily Journal Bot Demo Flow" src="https://github.com/user-attachments/assets/374fbaba-370a-4faf-8994-723c9acfac14" />
+
 
 ## The engineering challenge
 
